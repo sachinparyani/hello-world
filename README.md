@@ -1,2 +1,3 @@
 # hello-world
-Just a repo
+Hi coders!
+I love coding.
